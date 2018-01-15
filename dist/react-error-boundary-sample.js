@@ -17970,8 +17970,8 @@ var ErrorBoundary = function (_React$Component2) {
     value: function render() {
       if (this.state.hasError) {
         return _react2.default.createElement(
-          "h1",
-          null,
+          "dialog",
+          { open: true },
           "Something went wrong."
         );
       }
