@@ -1,0 +1,16 @@
+{
+  "name": "react-error-boundary-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/mamoru0217/react-error-boundary-sample.git",
+  "author": "Mamoru Amano <booktower103@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
